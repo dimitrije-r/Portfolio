@@ -1,0 +1,100 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/images/16.png",
+            "title": "Random User",
+            "description": "Displays a random user using random.me API",
+            "url": "https://16-random-me.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/15.png",
+            "title": "Cocktail Database",
+            "description": "Uses CocktailDB API to display a variety of cocktails and their descriptions",
+            "url": "https://15-cocktail-database.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/9.png",
+            "title": "Color Generator",
+            "description": "Generates additional shades of the provided color",
+            "url": "https://9-colorgenerator.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/10.png",
+            "title": "List Maker",
+            "description": "Allows its user to create and edit a list and saves it automatically",
+            "url": "https://10-list-maker.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/8.png",
+            "title": "Lorem Ipsum",
+            "description": "Generates dummy text akin to lorem ipsum",
+            "url": "https://8-lorem-ipsum-generator.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/14.png",
+            "title": "Shopping Cart",
+            "description": "Simulates a shopping cart",
+            "url": "https://14-cart-shopping.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/13.png",
+            "title": "Modal Navbar",
+            "description": "Heavily inspired by stripe.com",
+            "url": "https://13-modal-sidebar.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/12.png",
+            "title": "Simple Sidebar",
+            "description": "Simulates a functional sidebar with modal content",
+            "url": "https://12-simple-sidebar.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/11.png",
+            "title": "Simple Navbar",
+            "description": "A simple navbar optimized for mobile devices",
+            "url": "https://11-simple-navbar.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/7.png",
+            "title": "Reviews 2",
+            "description": "Displays a slideshow of reviews and automatically cycles through them",
+            "url": "https://7-reviews-2.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/6.png",
+            "title": "Jobs",
+            "description": "Uses external API to display someones work experience",
+            "url": "https://6-jobs.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/5.png",
+            "title": "Menu",
+            "description": "Uses JSON file to display a restaurant-like menu",
+            "url": "https://5-menu.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/1.png",
+            "title": "BDay List",
+            "description": "Lists five different birthdays",
+            "url": "https://1-b-day-list.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/4.png",
+            "title": "Q&A",
+            "description": "Simulates Q&A/FAQ section of a website",
+            "url": "https://4-q-and-a.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/3.png",
+            "title": "Reviews",
+            "description": "Displays a few reviews and allows the user to cycle trough them",
+            "url": "https://3-review-slideshow.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/2.png",
+            "title": "Tours",
+            "description": "Uses external API to display a list of tours",
+            "url": "https://2-tour-list.netlify.app"
+        }
+    ]
+}
