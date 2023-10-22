@@ -1,7 +1,7 @@
-#dimitrijerankov.netlify.com
-
+# dimitrijerankov.netlify.com
+#
 #Used packages:
-
+#
 #react-router-dom
 #sass
 #animate.css
