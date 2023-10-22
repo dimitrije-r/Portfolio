@@ -1,4 +1,4 @@
-# ([dimitrijerankov.netlify.com](https://dimitrijerankov.netlify.app/))
+# [dimitrijerankov.netlify.com](https://dimitrijerankov.netlify.app/)
 
 Used packages:
 
