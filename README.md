@@ -1,14 +1,15 @@
-dimitrijerankov.netlify.com
+# [dimitrijerankov.netlify.com](https://dimitrijerankov.netlify.app/)
 
-Used packages:
-
-react-router-dom
-sass
-animate.css
-loaders.css
-react-loaders
-gsap-trial
-fortawesome/free-brands-svg-icons
-fortawesome/free-solid-svg-icons
-fortawesome/react-fontawesome
-email.js
+<b>Used packages:</b>
+<hr>
+react-router-dom<br>
+sass<br>
+animate.css<br>
+loaders.css<br>
+react-loaders<br>
+gsap-trial<br>
+fortawesome/free-brands-svg-icons<br>
+fortawesome/free-solid-svg-icons<br>
+fortawesome/react-fontawesome<br>
+email.js<hr>
+<b><i>React+SASS</i></b>
