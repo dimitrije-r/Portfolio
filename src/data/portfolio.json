@@ -1,6 +1,12 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/images/19.png",
+            "title": "Notes",
+            "description": "Allows the user to create, save and   edit notes",
+            "url": "https://2-notes.netlify.app/"
+        },
+        {
             "cover": "/portfolio/images/16.png",
             "title": "Random User",
             "description": "Displays a random user using random.me API",
@@ -13,6 +19,12 @@
             "url": "https://15-cocktail-database.netlify.app"
         },
         {
+            "cover": "/portfolio/images/20.png",
+            "title": "Hangman",
+            "description": "A functional hangman game that also enables the user to utilize their physical keyboard.",
+            "url": "https://1-hangman.netlify.app/"
+        },
+        {
             "cover": "/portfolio/images/9.png",
             "title": "Color Generator",
             "description": "Generates additional shades of the provided color",
@@ -23,6 +35,18 @@
             "title": "List Maker",
             "description": "Allows its user to create and edit a list and saves it automatically",
             "url": "https://10-list-maker.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/18.png",
+            "title": "Web Store",
+            "description": "Simulates a web store with a shopping cart",
+            "url": "https://3-shopping-cart.netlify.app/store"
+        },
+        {
+            "cover": "/portfolio/images/17.png",
+            "title": "Calculator",
+            "description": "A simple, fully functional calculator",
+            "url": "https://17-calculator.netlify.app/"
         },
         {
             "cover": "/portfolio/images/8.png",
