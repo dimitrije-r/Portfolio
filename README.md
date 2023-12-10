@@ -12,4 +12,4 @@ fortawesome/free-brands-svg-icons<br>
 fortawesome/free-solid-svg-icons<br>
 fortawesome/react-fontawesome<br>
 email.js<hr>
-<b><i>React+SASS</i></b>
+<b><i>React + SCSS</i></b>
