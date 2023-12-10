@@ -1,9 +1,21 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/images/22.png",
+            "title": "YouTube",
+            "description": "Replicates the look of Youtube Home page",
+            "url": "https://5-yt-homepage-clone.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/21.png",
+            "title": "Quiz",
+            "description": "Uses OpenTriviaDB API to create a quiz for the user",
+            "url": "https://4-quiz.netlify.app/"
+        },
+        {
             "cover": "/portfolio/images/19.png",
             "title": "Notes",
-            "description": "Allows the user to create, save and   edit notes",
+            "description": "Allows the user to create, save and edit notes",
             "url": "https://2-notes.netlify.app/"
         },
         {
