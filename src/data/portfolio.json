@@ -58,7 +58,7 @@
             "cover": "/portfolio/images/RJS3.png",
             "title": "Color Generator",
             "description": "Generates additional shades of the provided color",
-            "url": "https://3-colorgenerator.netlify.app/"
+            "url": "https://3-color-generator.netlify.app/"
         },
         {
             "cover": "/portfolio/images/RJS4.png",
@@ -88,7 +88,7 @@
             "cover": "/portfolio/images/RJS6.png",
             "title": "Shopping Cart",
             "description": "Simulates a shopping cart",
-            "url": "https://6-cart-shopping.netlify.app"
+            "url": "https://6-shopping-cart.netlify.app/"
         },
         {
             "cover": "/portfolio/images/RJS5.png",
