@@ -25,6 +25,12 @@
             "url": "https://10-software-dev-portfolio.netlify.app/"
         },
         {
+            "cover": "/portfolio/images/RTS7.png",
+            "title": "Posts",
+            "description": "Displays a few different Twitter-like posts",
+            "url": "https://7-posts.netlify.app/"
+        },
+        {
             "cover": "/portfolio/images/RTS4.png",
             "title": "Quiz",
             "description": "Uses OpenTriviaDB API to create a quiz for the user",
@@ -37,16 +43,16 @@
             "url": "https://2-notes.netlify.app/"
         },
         {
-            "cover": "/portfolio/images/RJS8.png",
-            "title": "Random User",
-            "description": "Displays a random user using random.me API",
-            "url": "https://8-random-me.netlify.app/"
-        },
-        {
             "cover": "/portfolio/images/RJS7.png",
             "title": "Cocktail Database",
             "description": "Uses CocktailDB API to display a variety of cocktails and their descriptions",
             "url": "https://7-cocktail-database.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/RJS8.png",
+            "title": "Random User",
+            "description": "Displays a random user using random.me API",
+            "url": "https://8-random-me.netlify.app/"
         },
         {
             "cover": "/portfolio/images/RTS1.png",
