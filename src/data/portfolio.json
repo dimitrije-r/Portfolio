@@ -25,6 +25,12 @@
             "url": "https://10-software-dev-portfolio.netlify.app/"
         },
         {
+            "cover": "/portfolio/images/JQ1.png",
+            "title": "The Solar System",
+            "description": "Somewhat accurate representation of our solar system",
+            "url": "https://the-solar-system-jquery.netlify.app/"
+        },
+        {
             "cover": "/portfolio/images/RTS7.png",
             "title": "Posts",
             "description": "Displays a few different Twitter-like posts",
