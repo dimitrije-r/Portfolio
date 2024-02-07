@@ -23,7 +23,7 @@ const About = () => {
           <AnimatedLetters letterClass={letterClass} strArray={['A','b','o','u','t',' ','m','e']} idx={15}/>
         </h1>
         <p>
-        I am a highly motivated and driven front-end developer, actively seeking opportunities to grow, learn, and collaborate with like-minded individuals on challenging and diverse projects involving the latest technologies.
+        I am a highly motivated and driven full-stack web developer, actively seeking opportunities to grow, learn, and collaborate with like-minded individuals on challenging and diverse projects involving the latest technologies.
           </p>
         <p>
         If I were to define myself in one sentence, I would say that I am an eager and ambitious individual who thrives under pressure and is always eager to learn and discover.
