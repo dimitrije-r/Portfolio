@@ -6,7 +6,7 @@
 </div><hr>
 Live: https://dimitrijerankov.netlify.app/
 <hr>
-<b>Packages/libraries used:</b>
+<b>Dependencies/libraries:</b>
 <br>
 <ol>
 <li>react-router-dom</li>
