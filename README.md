@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/gsap.svg" alt="gsap" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
 </div><hr>
 Live: https://dimitrijerankov.netlify.app/
 <hr>
