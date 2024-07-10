@@ -1,0 +1,118 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/images/RJS12.png",
+            "title": "Chess",
+            "description": "A fully functional chess app",
+            "url": "https://12-chess.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RTS5.png",
+            "title": "YouTube",
+            "description": "Replicates the look of Youtube Home page",
+            "url": "https://5-yt-homepage-clone.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS11.png",
+            "title": "Dashboard",
+            "description": "Simulates an admin dashboard",
+            "url": "https://11-dashboard.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS10.png",
+            "title": "Software dev portfolio",
+            "description": "A portfolio website I am working on for a friend",
+            "url": "https://10-software-dev-portfolio.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/JQ1.png",
+            "title": "The Solar System",
+            "description": "Somewhat accurate representation of our solar system",
+            "url": "https://the-solar-system-jquery.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RTS7.png",
+            "title": "Posts",
+            "description": "Displays a few different Twitter-like posts",
+            "url": "https://7-posts.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RTS4.png",
+            "title": "Quiz",
+            "description": "Uses OpenTriviaDB API to create a quiz for the user",
+            "url": "https://4-quiz.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RTS2.png",
+            "title": "Notes",
+            "description": "Allows the user to create, save and edit notes",
+            "url": "https://2-notes.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS7.png",
+            "title": "Cocktail Database",
+            "description": "Uses CocktailDB API to display a variety of cocktails and their descriptions",
+            "url": "https://7-cocktail-database.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/RJS8.png",
+            "title": "Random User",
+            "description": "Displays a random user using random.me API",
+            "url": "https://8-random-me.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RTS1.png",
+            "title": "Hangman",
+            "description": "A functional hangman game that also enables the user to utilize their physical keyboard.",
+            "url": "https://1-hangman.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS3.png",
+            "title": "Color Generator",
+            "description": "Generates additional shades of the provided color",
+            "url": "https://3-color-generator.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS4.png",
+            "title": "List Maker",
+            "description": "Allows its user to create and edit a list and saves it automatically",
+            "url": "https://4-list-maker.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/RTS3.png",
+            "title": "Web Store",
+            "description": "Simulates a web store with a shopping cart",
+            "url": "https://3-shopping-cart.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/RJS9.png",
+            "title": "Calculator",
+            "description": "A simple, fully functional calculator",
+            "url": "https://9-standard-calculator.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS2.png",
+            "title": "Lorem Ipsum",
+            "description": "Generates dummy text akin to lorem ipsum",
+            "url": "https://2-lorem-ipsum-generator.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS6.png",
+            "title": "Shopping Cart",
+            "description": "Simulates a shopping cart",
+            "url": "https://6-shopping-cart.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/images/RJS5.png",
+            "title": "Stripe copy",
+            "description": "Heavily inspired by stripe.com",
+            "url": "https://5-modal-sidebar.netlify.app"
+        },
+        {
+            "cover": "/portfolio/images/RJS1.png",
+            "title": "Menu",
+            "description": "Uses JSON file to display a restaurant-like menu",
+            "url": "https://1-restaurant-menu.netlify.app/"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 1.4;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0b0c10;
+  overflow: hidden;
+  display: block;
+}
+
+.dashboard {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}
